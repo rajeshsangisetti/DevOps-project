@@ -1,0 +1,5 @@
+text .xt
+this is a demo text
+Learning git.
+
+potato
